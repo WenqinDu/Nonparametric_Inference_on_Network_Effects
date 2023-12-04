@@ -5,7 +5,7 @@
 The code is for reproducing the numerical experiments and data example results in the following paper 
 
 * Optimal nonparametric inference on network effects with dependent edges
-<br /><i>Wenqin Du, Yu Zhang, and Wen Zhou</i><br>
+<br /><i>Wenqin Du, Yuan Zhang, and Wen Zhou</i><br>
 
 ## Guidelines for Result Replication
 
@@ -16,7 +16,7 @@ The code is for reproducing the numerical experiments and data example results i
 
 
 ## License
-Copyright 2023 Wenqin Du, Yu Zhang, and Wen Zhou
+Copyright 2023 Wenqin Du, Yuan Zhang, and Wen Zhou
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
