@@ -1,4 +1,4 @@
-# Nonparametric_Inference_on_Network_Effects
+# Nonparametric Inference on Network Effects
 
 ## Introduction
 
