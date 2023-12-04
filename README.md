@@ -11,9 +11,9 @@ The code is for reproducing the numerical experiments and data example results i
 
 ### Results in Section 7
 
-1) **Table 4:** Please go to folder `./simulation_main/empirical_typeIerror/` and run `typeIerror_and_qqplot.R` in R to obtain the results. The implementation code for experiments is located in `./configurations/`. To save time, one can use the intermediate results saved in the folder `./outputs/` to calculate the empirical sizes.
+1) **Figure 1:** Please run `./simulation_main/empirical_size/typeIerror_and_qqplot.R` to obtain the results.
    
-2) **Figure 1:** Please run `./simulation_main/empirical_size/typeIerror_and_qqplot.R` to obtain the results.
+2) **Table 4:** Please go to folder `./simulation_main/empirical_typeIerror/` and run `typeIerror_and_qqplot.R` in R to obtain the results. The implementation code for experiments is located in `./configurations/`. To save time, one can use the intermediate results saved in the folder `./outputs/` to calculate the empirical sizes.
 
 3) **Table 5:** Please go to folder `./simulation_main/empirical_power/` and run `power.R` in R to obtain the results. The implementation code for experiments is located in `./configurations/`. To save time, one can use the intermediate results saved in the folder `./outputs/` to calculate the empirical powers.
 
