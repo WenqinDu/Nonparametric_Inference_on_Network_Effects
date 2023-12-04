@@ -32,7 +32,7 @@ The code is for reproducing the numerical experiments and data example results i
 
 ## Packed Algorithm Code for Practitioners
 
-`networkEffectsTest.R:` Wrapped functions and examples for proposed network effects tests in paper 'Optimal nonparametric inference on network effects for relational data with dependent edges'.
+`networkEffectsTest.R:` Wrapped functions and examples for proposed network effects tests in paper 'Optimal nonparametric inference on network effects with dependent edges'.
 
 
 ## License
