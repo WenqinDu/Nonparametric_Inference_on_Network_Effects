@@ -1,0 +1,1 @@
+In the "ready to use data matrices", element $(i,j)$ in each adjacency matrix signifies the number of individual earned a Ph.D. from institution i and held a tenure-track faculty position at institution j.
