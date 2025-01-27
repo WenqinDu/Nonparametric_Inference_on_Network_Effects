@@ -1,0 +1,206 @@
+index	USN2010	institution
+1	1	Stanford University
+2	1	UC Berkeley
+3	1	MIT
+4	11	California Institute of Technology
+5	17	Harvard University
+6	5	Cornell University
+7	1	Carnegie Mellon University
+8	8	Princeton University
+9	20	Yale University
+10	7	University of Washington
+11	5	University of Illinois, Urbana Champaign
+12	11	University of Wisconsin, Madison
+13	17	University of Pennsylvania
+14	20	Rice University
+15	14	UCLA
+16	28	New York University
+17	35	University of Chicago
+18	8	University of Texas, Austin
+19	20	Brown University
+20	17	Columbia University
+21	.	University of Toronto
+22	47	University of Rochester
+23	20	University of Southern California
+24	28	Johns Hopkins University
+25	20	University of Massachusetts, Amherst
+26	14	UC San Diego
+27	14	University of Maryland, College Park
+28	13	University of Michigan
+29	20	University of North Carolina, Chapel Hill
+30	27	Duke University
+31	44	State University of New York, Stony Brook
+32	28	UC Irvine
+33	44	Dartmouth College
+34	28	University of Virginia
+35	20	Purdue University
+36	35	University of Minnesota, Minneapolis
+37	10	Georgia Tech
+38	28	Rutgers University
+39	47	University of Arizona
+40	28	Pennsylvania State University
+41	28	Ohio State University
+42	35	Northwestern University
+43	39	Washington University, St. Louis
+44	53	University of Pittsburgh
+45	47	Boston University
+46	.	University of British Columbia
+47	63	University of Oregon
+48	63	Syracuse University
+49	35	UC Santa Barbara
+50	39	University of Utah
+51	39	UC Davis
+52	47	Texas A&M
+53	110	University of Houston
+54	58	Michigan State University
+55	.	University of Waterloo
+56	39	University of Colorado, Boulder
+57	.	McGill University
+58	79	CUNY Graduate Center
+59	63	Case Western Reserve University
+60	53	UC Riverside
+61	79	University of Kansas, Lawrence
+62	79	Florida State University
+63	79	College of William and Mary
+64	99	Lehigh University
+65	.	University of Montreal
+66	.	Simon Fraser University
+67	58	University of Illinois, Chicago
+68	99	University of Cincinnati
+69	53	UC Santa Cruz
+70	47	Rensselaer Polytechnic Institute
+71	110	Southern Methodist University
+72	91	University of Central Florida
+73	79	University of New Mexico
+74	47	North Carolina State University
+75	61	State University of New York, Buffalo
+76	99	Stevens Institute of Technology
+77	79	Washington State University, Pullman
+78	.	McMaster University
+79	72	Brandeis University
+80	.	University of Alberta
+81	79	George Washington University
+82	72	Polytechnic Institute of NYU
+83	63	University of Iowa
+84	72	University of Delaware
+85	63	Iowa State University
+86	58	Vanderbilt University
+87	39	University of Florida
+88	63	George Mason University
+89	63	University of Notre Dame
+90	110	Wayne State University
+91	.	University of Calgary
+92	127	University of Louisiana, Lafayette
+93	.	University of Western Ontario
+94	.	Carleton University
+95	.	Queens University
+96	110	University of Wisconsin, Milwaukee
+97	99	Louisiana State University
+98	99	University of Texas, Arlington
+99	.	University of Ottawa
+100	72	University of Connecticut
+101	79	Oregon Health and Science University
+102	53	Arizona State University
+103	99	Kansas State University
+104	91	State University of New York, Albany
+105	99	University of South Florida
+106	44	Virginia Tech
+107	.	Portland State University
+108	99	University of South Carolina
+109	121	Missouri University of Science and Technology
+110	110	University of Oklahoma
+111	53	Indiana University
+112	110	Illinois Institute of Technology
+113	63	University of Tennessee, Knoxville
+114	.	University of Miami
+115	91	New Jersey Institute of Technology
+116	91	University of Kentucky
+117	110	State University of New York, Binghamton
+118	79	Colorado State University
+119	.	University of Colorado, Denver
+120	79	University of Texas, Dallas
+121	.	University of Rhode Island
+122	.	Toyota Technological Institute at Chicago
+123	91	Auburn University
+124	99	Drexel University
+125	63	Oregon State University
+126	.	University of Manitoba
+127	.	University of Regina
+128	79	University of Nebraska, Lincoln
+129	.	University of Saskatchewan
+130	127	Florida Atlantic University
+131	.	University of Texas, San Antonio
+132	.	University of Denver
+133	72	University of Maryland, Baltimore County
+134	127	Oakland University (Michigan)
+135	127	University of Maine
+136	.	Clarkson University
+137	121	New Mexico State University
+138	127	University of Memphis
+139	.	University of Victoria
+140	.	Concordia University, Montreal
+141	127	University of Missouri, Kansas City
+142	110	University of Missouri, Columbia
+143	.	Dalhousie University
+144	.	Virginia Commonwealth University
+145	91	Worcester Polytechnic Institute
+146	127	Old Dominion University
+147	.	University of Texas, El Paso
+148	72	Naval Postgraduate School
+149	.	University of Massachusetts, Boston
+150	.	University of Wyoming
+151	.	York University
+152	91	University of Georgia
+153	121	Mississippi State University
+154	72	Tufts University
+155	127	Florida International University
+156	.	Southern Illinois University, Carbondale
+157	.	Ohio University
+158	121	Claremont Graduate University
+159	.	Catholic University of America
+160	79	Clemson University
+161	127	University of Massachusetts, Lowell
+162	127	Oklahoma State University
+163	99	University of North Carolina, Charlotte
+164	127	University of Alabama, Birmingham
+165	.	Santa Clara University
+166	127	University of Hawaii, Manoa
+167	110	Temple University
+168	.	University of Toledo
+169	127	Michigan Technological University
+170	.	University of New Hampshire
+171	.	Montana State University
+172	.	University of New Brunswick
+173	121	Wright State University
+174	.	Western Michigan University
+175	61	Northeastern University
+176	127	University of Alabama, Huntsville
+177	127	University of Idaho, Moscow
+178	121	Texas Tech University
+179	127	University of Tulsa
+180	127	University of Mississippi
+181	91	Brigham Young University
+182	.	Long Island University
+183	127	University of Southern Mississippi
+184	.	University of Colorado, Colorado Springs
+185	110	Colorado School of Mines
+186	99	Georgia State University
+187	.	University of Nevada, Las Vegas
+188	127	Kent State University
+189	.	Memorial University of Newfoundland
+190	.	Utah State University
+191	127	DePaul University
+192	127	North Dakota State University
+193	127	Nova Southeastern University
+194	127	University of Arkansas, Fayetteville
+195	.	University of Bridgeport
+196	127	University of Louisville
+197	.	University of Nebraska, Omaha
+198	127	Florida Institute of Technology
+199	.	University of Arkansas, Little Rock
+200	.	Rochester Institute of Technology
+201	.	Pace University
+202	127	New Mexico Institute of Mining and Technology
+203	.	University of Nevada, Reno
+204	127	University of Alabama, Tuscaloosa
+205	127	University of North Texas, Denton

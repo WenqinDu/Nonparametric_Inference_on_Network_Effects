@@ -1,0 +1,113 @@
+index 	USN2012	institution
+1	1	Stanford University
+2	3	MIT
+3	2	Harvard University
+4	7	UC Berkeley
+5	45	University of Rochester
+6	5	University of Chicago
+7	16	Cornell University
+8	5	Northwestern University
+9	14	University of Michigan
+10	9	Columbia University
+11	10	Yale University
+12	3	University of Pennsylvania
+13	18	Carnegie Mellon University
+14	28	University of Wisconsin, Madison
+15	14	UCLA
+16	10	New York University
+17	21	University of Minnesota, Minneapolis
+18	37	University of Illinois, Urbana Champaign
+19	12	Duke University
+20	49	Purdue University
+21	26	Ohio State University
+22	40	University of Iowa
+23	19	University of North Carolina, Chapel Hill
+24	20	Washington University, St. Louis
+25	47	University of Florida
+26	17	University of Texas, Austin
+27	85	University of Pittsburgh
+28	40	Pennsylvania State University
+29	37	University of Washington
+30	45	University of Maryland, College Park
+31	23	Indiana University
+32	49	Michigan State University
+33	28	Georgia Tech
+34	69	University of Colorado, Boulder
+35	40	UC Irvine
+36	63	University of Arizona
+37	80	University of Utah
+38	91	University of Oregon
+39	21	University of Southern California
+40	75	State University of New York, Buffalo
+41	40	University of Texas, Dallas
+42	13	University of Virginia
+43	34	Boston University
+44	60	University of Massachusetts, Amherst
+45	32	Texas A&M
+46	23	Emory University
+47	80	Case Western Reserve University
+48	28	UC Davis
+49	57	University of Georgia
+50	28	Vanderbilt University
+51	69	Syracuse University
+52	63	Claremont Graduate University
+53	27	Arizona State University
+54	54	University of South Carolina
+55	73	Virginia Tech
+56	94	Florida State University
+57	91	University of Oklahoma
+58	40	Tulane University
+59	69	University of Connecticut
+60	34	Boston College
+61	75	University of Cincinnati
+62	94	University of Houston
+63	57	Rutgers University
+64	105	University of Kansas, Lawrence
+65	89	Louisiana State University
+66	51	University of Arkansas, Fayetteville
+67	60	University of Tennessee, Knoxville
+68	7	Dartmouth College
+69	102	University of Kentucky
+70	34	Rice University
+71	57	Southern Methodist University
+72	63	Temple University
+73	52	George Washington University
+74	63	University of Alabama, Tuscaloosa
+75	97	Oklahoma State University
+76	107	State University of New York, Binghamton
+77	69	Iowa State University
+78	85	CUNY Baruch College
+79	107	University of Hawaii, Manoa
+80	102	University of Mississippi
+81	.	University of Missouri, St. Louis
+82	25	Georgetown University
+83	107	Drexel University
+84	63	Auburn University
+85	37	University of Notre Dame
+86	83	North Carolina State University
+87	85	University of Miami
+88	94	Saint Louis University
+89	85	Worcester Polytechnic Institute
+90	83	College of William and Mary
+91	101	Clarkson University
+92	32	Brigham Young University
+93	97	Fordham University
+94	75	Santa Clara University
+95	107	Portland State University
+96	107	Rollins College
+97	56	Northeastern University
+98	97	Miami University, Ohio
+99	73	Bentley University
+100	91	Howard University
+101	63	Rochester Institute of Technology
+102	80	Texas Christian University
+103	107	Abilene Christian University
+104	52	Babson College
+105	75	Pepperdine University
+106	102	University of Denver
+107	47	Wake Forest University
+108	75	Thunderbird School of Global Management
+109	97	Pace University
+110	60	Baylor University
+111	89	DePaul University
+112	105	Hofstra University

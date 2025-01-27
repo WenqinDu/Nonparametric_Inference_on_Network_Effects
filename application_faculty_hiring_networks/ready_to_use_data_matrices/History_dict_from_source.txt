@@ -1,0 +1,145 @@
+index 	USN2009	institution
+1	5	Harvard University
+2	1	Yale University
+3	1	UC Berkeley
+4	1	Princeton University
+5	1	Stanford University
+6	5	University of Chicago
+7	7	Columbia University
+8	36	Brandeis University
+9	9	Johns Hopkins University
+10	9	University of Pennsylvania
+11	14	University of Wisconsin, Madison
+12	7	University of Michigan
+13	9	UCLA
+14	14	Northwestern University
+15	12	Cornell University
+16	17	Brown University
+17	28	UC Davis
+18	64	University of Rochester
+19	17	New York University
+20	33	UC San Diego
+21	14	Duke University
+22	24	University of Minnesota, Minneapolis
+23	20	Rutgers University
+24	12	University of North Carolina, Chapel Hill
+25	20	University of Virginia
+26	42	University of Southern California
+27	26	University of Washington
+28	28	MIT
+29	17	University of Texas, Austin
+30	28	Emory University
+31	22	Indiana University
+32	71	State University of New York, Stony Brook
+33	22	University of Illinois, Urbana Champaign
+34	28	Washington University, St. Louis
+35	71	UC Riverside
+36	56	Michigan State University
+37	42	UC Irvine
+38	42	UC Santa Barbara
+39	64	State University of New York, Binghamton
+40	36	Georgetown University
+41	42	University of Arizona
+42	33	University of Maryland, College Park
+43	101	Catholic University of America
+44	48	University of Florida
+45	36	Carnegie Mellon University
+46	42	University of Pittsburgh
+47	56	Tufts University
+48	36	University of Notre Dame
+49	33	Rice University
+50	85	State University of New York, Buffalo
+51	64	UC Santa Cruz
+52	48	Boston University
+53	26	Vanderbilt University
+54	56	George Washington University
+55	56	University of Connecticut
+56	71	University of New Mexico
+57	24	Ohio State University
+58	52	University of Georgia
+59	36	University of Iowa
+60	64	University of Massachusetts, Amherst
+61	92	Northern Illinois University
+62	71	University of Miami
+63	56	Boston College
+64	36	University of Illinois, Chicago
+65	64	Temple University
+66	48	Claremont Graduate University
+67	81	Louisiana State University
+68	52	University of Kansas, Lawrence
+69	92	University of Hawaii, Manoa
+70	92	Case Western Reserve University
+71	56	Tulane University
+72	119	Wayne State University
+73	101	Florida State University
+74	124	Drew University
+75	48	Pennsylvania State University
+76	52	Princeton Theological Seminary
+77	42	College of William and Mary
+78	107	University of Cincinnati
+79	119	Florida International University
+80	92	University of Tennessee, Knoxville
+81	52	University of Colorado, Boulder
+82	101	Ohio University
+83	64	University of Delaware
+84	56	University of Oregon
+85	85	University of Kentucky
+86	124	University of Toledo
+87	92	American University, Washington
+88	114	Georgia State University
+89	71	Arizona State University
+90	56	University of Missouri, Columbia
+91	92	University of Utah
+92	81	University of New Hampshire
+93	107	State University of New York, Albany
+94	28	CUNY Graduate Center
+95	81	Clark University
+96	107	University of Houston
+97	71	Syracuse University
+98	114	Marquette University
+99	124	Kent State University
+100	124	Bowling Green State University
+101	119	University of Maine
+102	92	University of Mississippi
+103	107	Washington State University, Pullman
+104	107	Miami University, Ohio
+105	92	Kansas State University
+106	71	University of Oklahoma
+107	107	Howard University
+108	123	University of Missouri, Kansas City
+109	81	University of Nebraska, Lincoln
+110	71	Jewish Theological Seminary of America
+111	114	Saint Johns University
+112	92	Northeastern University
+113	124	Texas Christian University
+114	107	Auburn University
+115	101	Iowa State University
+116	85	Graduate Theological Union
+117	123	Lehigh University
+118	71	Purdue University
+119	85	University of South Carolina
+120	124	University of North Texas, Denton
+121	119	Loyola University Chicago
+122	85	Texas A&M
+123	114	University of Arkansas, Fayetteville
+124	123	Northern Arizona University
+125	114	West Virginia University
+126	85	Fordham University
+127	101	University of Alabama, Tuscaloosa
+128	124	University of Southern Mississippi
+129	124	University of Akron
+130	123	University of Texas, Dallas
+131	101	University of Nevada, Reno
+132	124	Illinois State University
+133	123	Southern Illinois University, Carbondale
+134	124	Southern Baptist Theological Seminary
+135	124	Western Michigan University
+136	85	Saint Louis University
+137	123	University of Texas, Arlington
+138	124	University of Idaho, Moscow
+139	124	Texas Tech University
+140	124	University of Memphis
+141	124	Mississippi State University
+142	64	George Mason University
+143	123	Oklahoma State University
+144	124	Middle Tennessee State University
